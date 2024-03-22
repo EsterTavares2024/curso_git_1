@@ -4,3 +4,6 @@ testando repo 12
 algumasb
 coisasd
 coisasb
+Aprendendo sobre limpar stashes
+teste1
+teste2
