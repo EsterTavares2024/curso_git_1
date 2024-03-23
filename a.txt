@@ -1,1 +1,2 @@
 Testando uma atualização de arquivo
+2 testando a funcionalidade x
